@@ -1,0 +1,9 @@
+flask
+python-dotenv
+groq
+httpx
+numpy
+sounddevice
+edge-tts
+livekit-agents
+livekit-api
